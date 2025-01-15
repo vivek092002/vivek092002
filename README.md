@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek092002&label=Profile%20views&color=0e75b6&style=flat" alt="vivek092002" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vivek092002.github.io/PORTFOLIO/](https://vivek092002.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://vivek092002.github.io/PORTFOLIO/](https://vivek092002.github.io/PORTFOLIO/)
 
 - 💬 Ask me about **Java, Spring Boot, Android Developement**
 
